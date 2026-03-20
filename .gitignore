@@ -125,6 +125,8 @@ AutoTest.Net/
 # Web workbench (sass)
 .sass-cache/
 
+cursor_chat.md
+
 # Installshield output folder
 [Ee]xpress/
 
