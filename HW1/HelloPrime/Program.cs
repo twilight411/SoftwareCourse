@@ -14,6 +14,7 @@ if (lower > upper)
     upper = temp;
 }
 
+
 Console.WriteLine($"[{lower}, {upper}] 区间内的素数有：");
 for (int n = lower; n <= upper; n++)
 {
@@ -33,7 +34,7 @@ static int ReadIntFromConsole()
             return value;
         }
 
-        Console.Write("输入无效，请重新输入一个整数：");
+        //Console.Write("输入无效，请重新输入一个整数：");
     }
 }
 
